@@ -3,18 +3,22 @@ Welcome to the official "The Game of Noobs" documentation!
 
 This mod is specifically made for noobs. DO NOT attempt to play, if you are a pro.
 
-# Downloads:
+Downloads:
+----------
 
--  [Curseforge](https://www.curseforge.com/minecraft/mc-mods/the-best-noob-mod)
--  [Modrinth](https://modrinth.com/mod/the-best-noob-mod)
+-  `Curseforge`_https://www.curseforge.com/minecraft/mc-mods/the-best-noob-mod
+-  `Modrinth`_https://modrinth.com/mod/the-best-noob-mod
 
-### Current Features
+Current Features
+----------------
 
-###### Blocks
+Blocks
+~~~~~~
 
 -   Noob Chest
 
-###### Weapons/Tools/Armor
+Weapons/Tools/Armor
+~~~~~~~~~~~~~~~~~~~
 
 -   Mud Sword
 -   Mud Pickaxe
@@ -29,15 +33,18 @@ This mod is specifically made for noobs. DO NOT attempt to play, if you are a pr
 -   Noob Armor (All items)
 -   Dirt Armor (All Items)
 
-###### Foodstuffs
+Foodstuffs
+~~~~~~~~~~
 
 -   Noob Food
 
-###### Dimensions
+Dimensions
+~~~~~~~~~~
 
 -   Mud Dimension
 
-###### Igniters
+Igniters
+~~~~~~~~
 
 -   Noob Igniter
 
