@@ -6,8 +6,8 @@ This mod is specifically made for noobs. DO NOT attempt to play, if you are a pr
 Downloads:
 ----------
 
--  .. _Curseforge: https://www.curseforge.com/minecraft/mc-mods/the-best-noob-mod
--  .. _Modrinth: https://modrinth.com/mod/the-best-noob-mod
+-  .. _Curseforge: Curseforge <https://www.curseforge.com/minecraft/mc-mods/the-best-noob-mod>
+-  .. _Modrinth: Modrinth <https://modrinth.com/mod/the-best-noob-mod>
 
 Current Features
 ----------------
